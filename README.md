@@ -21,7 +21,7 @@ This project analyzes global sales data using Microsoft Power BI. The dashboard 
 - Interactive dashboard visualizations
 
 ## Project File
-- `Global-Sales-Analysis.pbix` – Power BI report file.
+- `Global-Sales-Analysis using powerBI(1).pbix` – Power BI report file.
 
 ## Key Learnings
 - Creating dashboards using Power BI.
